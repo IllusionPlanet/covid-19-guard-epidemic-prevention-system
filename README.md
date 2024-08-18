@@ -1,2 +1,11 @@
-# covid-19-information-management-system
-#11 新冠病毒信息管理系统
+类型：初级项目
+
+开发环境：Android Studio，IntelliJ IDEA
+
+技术栈：Java，Android SDK，MySQL，MyBatis，Gradle，Maven
+
+时间：2022/04（大三春季）
+
+人员：5人团队
+
+课程：移动平台开发技术
